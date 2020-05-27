@@ -2,7 +2,7 @@
 
 These are the primitive Node-Red flows and Airtable templates for the info and access bot DAO Ops systems.
 
-Working implementations: (DAOinfo_bot)[https://t.me/DAOinfo_bot] (GandalfAccess_bot)[https://t.me/GandolfAccess_bot]
+Working implementations: [DAOinfo_bot](https://t.me/DAOinfo_bot) [GandalfAccess_bot](https://t.me/GandolfAccess_bot)
 
 For a more detailed tutorial, and more robust flow, please visit: https://github.com/abridged/dao-help
 
